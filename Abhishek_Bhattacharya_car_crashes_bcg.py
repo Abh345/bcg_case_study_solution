@@ -420,3 +420,4 @@ top_vehicle_makes_df.show()
 
 # COMMAND ----------
 
+exit(0)
